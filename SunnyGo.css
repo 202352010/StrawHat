@@ -1,5 +1,7 @@
 body{
     background-image: url(One\ piece\ new\ wallpaper.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
     display: grid;
     place-items: center;
     height: 100vh;
